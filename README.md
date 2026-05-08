@@ -1,4 +1,4 @@
-# MyMovieDB - Data Analysis Project
+# Netflix- Data Analysis Project
 
 **By:** Krish Rathore  
 **Dataset:** TMDB Movie Database  
